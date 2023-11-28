@@ -4,7 +4,7 @@ Open AI Gym-like environment for Pychrono.
 ## Installation of chrono
 
 ### Recommended way
-Suppose you have CUDA version 12.1 or newer.
+If you have CUDA version 12.1 or newer, you can take this recommended way. If not, please follow the other way mentioned later.
 1. Clone to the github repo chrono-tunerINN
 
 2. Try creating an environment from this yaml file in this repo using:
