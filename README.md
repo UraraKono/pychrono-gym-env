@@ -58,6 +58,8 @@ conda install pychrono-8.0.0-py39_1.tar.bz2
 
 * EGP: The files imported from [this repo](https://github.com/mlab-upenn/multisurface-racing). It has a pure pursuit planner and SaoPaulo map.
 
+* demo_VEH_HMMWV_circle_comment.py: Adding a bit of comments to one of Pychrono's demo file demo_VEH_HMMWV_circle.py. This file doesn't use chrono_env but might be helpful to get the overview of Pychrono's usage.
+
 For a bit more explanation of Pychrono, [this](https://docs.google.com/document/d/1A_kbgo-aT6AN3jz1o6GlgURnv0Lm8bGczRchwqg7-yI/edit?usp=sharing) might be useful.
 
 
